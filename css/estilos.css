@@ -2,3 +2,39 @@ body{
     background-color: black!important;
 	color: white!important;
 }
+
+#vermelha{
+    background-color: #800000;
+}
+
+#laranja{
+    background-color: #b34700;
+}
+
+#amarela{
+    background-color: #b36b00;
+}
+
+#roxa{
+    background-color: #600080;
+}
+
+#lilas{
+    background-color: #990073;
+}
+
+.row{
+    border: 1px solid white!important;
+}
+
+#acima{
+    color: blue;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#abaixo{
+    color: red;
+    font-size: 1.2em;
+    font-weight: bold;
+}
